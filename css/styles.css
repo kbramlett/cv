@@ -1,13 +1,16 @@
 
 body {
     background-color: #FBF8F1;
+    max-width: 800px;
+    margin: auto;
+
     }
 hr {
     border-style: none;
     border-top-style: dotted;
     border-color: #C6D57E;
     border-width: 10px;
-    width: 6%;
+    width: 75%;
     }
 h1,h2 {
     color: #52734D;
