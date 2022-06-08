@@ -12,11 +12,18 @@ hr {
     border-width: 10px;
     width: 75%;
     }
-h1,h2 {
+h1 {
     color: #52734D;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h2 {
+    color: #52734D;
+    font-family: sans-serif;
+    font-style: italic;
 }
 h3 {
     color: #52734D;
+    font-family: sans-serif;
     font-style: italic;
 }
 th {
